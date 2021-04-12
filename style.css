@@ -11,6 +11,21 @@ h1 {
   color: #34e1eb;
 }
 
+h2 {
+  font-weight: 100px;
+  color: #ffffff;
+}
+
+h3 {
+  font-weight: 100px;
+  color: #ffffff;
+}
+
+h4 {
+  font-weight: 100px;
+  color: #ffffff;
+}
+
 .header {
   padding: 20px;
   text-align: center;
