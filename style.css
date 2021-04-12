@@ -26,6 +26,11 @@ h4 {
   color: #ffffff;
 }
 
+p {
+  font-weight: 100px;
+  color: #dddddd;
+}
+
 .header {
   padding: 20px;
   text-align: center;
